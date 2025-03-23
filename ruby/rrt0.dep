@@ -1,0 +1,13 @@
+rrt0.o: rrt0.c vm_config.h \
+ /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/include/stddef.h \
+ /opt/homebrew/Cellar/mipsel-unknown-linux-gnu/13.3.0/toolchain/lib/gcc/mipsel-unknown-linux-gnu/13.3.0/include/stdint.h \
+ /opt/homebrew/Cellar/mipsel-unknown-linux-gnu/13.3.0/toolchain/lib/gcc/mipsel-unknown-linux-gnu/13.3.0/include/stdint-gcc.h \
+ /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/include/string.h \
+ /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/include/strings.h \
+ /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/include/memory.h \
+ /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/include/assert.h \
+ alloc.h load.h value.h class.h keyvalue.h error.h \
+ _autogen_builtin_class.h global.h symbol.h _autogen_builtin_symbol.h \
+ vm.h console.h \
+ /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/include/stdarg.h \
+ c_string.h c_array.h rrt0.h hal.h _autogen_class_rrt0.h

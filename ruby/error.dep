@@ -1,0 +1,12 @@
+error.o: error.c vm_config.h \
+ /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/include/string.h \
+ /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/include/strings.h \
+ /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/include/memory.h \
+ /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/include/stdarg.h \
+ alloc.h value.h \
+ /opt/homebrew/Cellar/mipsel-unknown-linux-gnu/13.3.0/toolchain/lib/gcc/mipsel-unknown-linux-gnu/13.3.0/include/stdint.h \
+ /opt/homebrew/Cellar/mipsel-unknown-linux-gnu/13.3.0/toolchain/lib/gcc/mipsel-unknown-linux-gnu/13.3.0/include/stdint-gcc.h \
+ /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/include/assert.h \
+ symbol.h _autogen_builtin_symbol.h error.h class.h keyvalue.h \
+ _autogen_builtin_class.h c_string.h vm.h console.h \
+ _autogen_class_exception.h

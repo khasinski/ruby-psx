@@ -1,0 +1,12 @@
+c_range.o: c_range.c vm_config.h alloc.h value.h \
+ /opt/homebrew/Cellar/mipsel-unknown-linux-gnu/13.3.0/toolchain/lib/gcc/mipsel-unknown-linux-gnu/13.3.0/include/stdint.h \
+ /opt/homebrew/Cellar/mipsel-unknown-linux-gnu/13.3.0/toolchain/lib/gcc/mipsel-unknown-linux-gnu/13.3.0/include/stdint-gcc.h \
+ /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/include/assert.h \
+ symbol.h _autogen_builtin_symbol.h class.h keyvalue.h error.h \
+ _autogen_builtin_class.h c_string.h \
+ /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/include/string.h \
+ /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/include/strings.h \
+ /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/include/memory.h \
+ c_range.h console.h \
+ /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/include/stdarg.h \
+ _autogen_class_range.h

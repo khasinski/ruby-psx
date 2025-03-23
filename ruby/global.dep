@@ -1,0 +1,11 @@
+global.o: global.c vm_config.h value.h \
+ /opt/homebrew/Cellar/mipsel-unknown-linux-gnu/13.3.0/toolchain/lib/gcc/mipsel-unknown-linux-gnu/13.3.0/include/stdint.h \
+ /opt/homebrew/Cellar/mipsel-unknown-linux-gnu/13.3.0/toolchain/lib/gcc/mipsel-unknown-linux-gnu/13.3.0/include/stdint-gcc.h \
+ /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/include/assert.h \
+ symbol.h _autogen_builtin_symbol.h global.h keyvalue.h class.h error.h \
+ _autogen_builtin_class.h console.h \
+ /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/include/stdarg.h \
+ /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/include/string.h \
+ /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/include/strings.h \
+ /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/include/memory.h \
+ c_array.h alloc.h
