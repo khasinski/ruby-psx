@@ -1,3 +1,0 @@
-mrblib.o: mrblib.c \
- /opt/homebrew/Cellar/mipsel-unknown-linux-gnu/13.3.0/toolchain/lib/gcc/mipsel-unknown-linux-gnu/13.3.0/include/stdint.h \
- /opt/homebrew/Cellar/mipsel-unknown-linux-gnu/13.3.0/toolchain/lib/gcc/mipsel-unknown-linux-gnu/13.3.0/include/stdint-gcc.h

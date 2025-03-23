@@ -14,7 +14,7 @@ make
 
 ## Running
 
-Use PS1 emultor to run the built psx-exe file.
+Use PS1 emultor to run the built ps-exe file.
 
 ### Prerequisites
 
