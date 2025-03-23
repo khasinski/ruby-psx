@@ -2,6 +2,8 @@
 
 This is a port of mruby/c for PlayStation 1.
 
+![screenshot](pcsx-redux-ruby.png)
+
 ## Building
 
 Run `make` in the root directory of this repository.'
