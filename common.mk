@@ -6,10 +6,11 @@ THISDIR := $(dir $(abspath $(lastword $(MAKEFILE_LIST))))
 SRCS += $(THISDIR)thirdparty/nugget/common/crt0/crt0.s
 SRCS += $(THISDIR)thirdparty/nugget/common/syscalls/printf.s
 
-CPPFLAGS += -I$(THISDIR)thirdparty/nugget/psyq/include -I$(THISDIR)psyq-4_7-converted/include -I$(THISDIR)psyq-4.7-converted-full/include -I$(THISDIR)psyq/include 
+CPPFLAGS += -I$(THISDIR)thirdparty/nugget/psyq/include -I$(THISDIR)psyq-4_7-converted/include -I$(THISDIR)psyq-4.7-converted-full/include -I$(THISDIR)psyq/include
 LDFLAGS += -L$(THISDIR)thirdparty/nugget/psyq/lib -L$(THISDIR)psyq-4_7-converted/lib -L$(THISDIR)psyq-4.7-converted-full/lib -L$(THISDIR)psyq/lib
 
 CPPFLAGS += -I$(THISDIR)../third_party/psyq/include
+CPPFLAGS += -I$(THISDIR)ruby/hal/ps1
 LDFLAGS += -L$(THISDIR)../third_party/psyq/lib
 LDFLAGS += -Wl,--start-group
 LDFLAGS += -lapi
