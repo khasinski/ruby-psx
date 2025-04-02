@@ -9,13 +9,14 @@ This is a port of mruby/c for PlayStation 1.
 Run `make` in the root directory of this repository.'
 
 ```sh
-make
+$ cd ruby && make
 ```
 
 ## Running
 
-Use PS1 emultor to run the built ps-exe file.
+Use PS1 emulator to run the built ps-exe file.
 
 ### Prerequisites
 
-TODO
+- MIPS C compiler
+- PS1 emulator or a real PS1 console
