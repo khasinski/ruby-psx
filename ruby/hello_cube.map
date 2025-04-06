@@ -1,0 +1,668 @@
+Archive member included to satisfy reference by file (symbol)
+
+/Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libc.a(c42.o)
+                              hello_cube.o (memcpy)
+/Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libc.a(c43.o)
+                              hello_cube.o (memset)
+/Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libetc.a(pad.o)
+                              hello_cube.o (PadRead)
+/Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libetc.a(vsync.o)
+                              hello_cube.o (VSync)
+/Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libetc.a(intr.o)
+                              /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libetc.a(pad.o) (ResetCallback)
+/Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libetc.a(intr_dma.o)
+                              /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libetc.a(intr.o) (startIntrDMA)
+/Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libetc.a(intr_vb.o)
+                              /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libetc.a(vsync.o) (Vcount)
+/Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(e03.o)
+                              hello_cube.o (SetDefDrawEnv)
+/Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(e04.o)
+                              hello_cube.o (SetDefDispEnv)
+/Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(font.o)
+                              hello_cube.o (FntFlush)
+/Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(p06.o)
+                              hello_cube.o (AddPrim)
+/Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(p09.o)
+                              /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(font.o) (TermPrim)
+/Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(p10.o)
+                              /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(font.o) (SetSemiTrans)
+/Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(p14.o)
+                              hello_cube.o (SetPolyG3)
+/Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(p20.o)
+                              /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(font.o) (SetSprt8)
+/Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(p26.o)
+                              /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(font.o) (SetTile)
+/Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(p41.o)
+                              /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(font.o) (SetDrawMode)
+/Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(sys.o)
+                              hello_cube.o (ResetGraph)
+/Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(e00.o)
+                              /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(font.o) (LoadTPage)
+/Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(e02.o)
+                              /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(font.o) (LoadClut2)
+/Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(p00.o)
+                              /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(e00.o) (GetTPage)
+/Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(p01.o)
+                              /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(e02.o) (GetClut)
+/Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgte.a(fgo_01.o)
+                              hello_cube.o (RotMatrix)
+/Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgte.a(msc00.o)
+                              hello_cube.o (InitGeom)
+/Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgte.a(mtx_07.o)
+                              hello_cube.o (TransMatrix)
+/Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgte.a(mtx_08.o)
+                              hello_cube.o (ScaleMatrix)
+/Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgte.a(mtx_09.o)
+                              hello_cube.o (SetRotMatrix)
+/Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgte.a(mtx_12.o)
+                              hello_cube.o (SetTransMatrix)
+/Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgte.a(patchgte.o)
+                              /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgte.a(msc00.o) (_patch_gte)
+/Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgte.a(reg12.o)
+                              hello_cube.o (SetGeomOffset)
+/Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgte.a(reg13.o)
+                              hello_cube.o (SetGeomScreen)
+/Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgte.a(smp_02.o)
+                              hello_cube.o (RotTransPers)
+/Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgte.a(cstbl.o)
+                              /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgte.a(fgo_01.o) (rcossin_tbl)
+/Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a22.o)
+                              /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libetc.a(pad.o) (PAD_dr)
+/Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a23.o)
+                              /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libetc.a(intr.o) (ReturnFromException)
+/Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a24.o)
+                              /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libetc.a(intr.o) (ResetEntryInt)
+/Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a25.o)
+                              /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libetc.a(intr.o) (HookEntryInt)
+/Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a36.o)
+                              /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libetc.a(intr.o) (EnterCriticalSection)
+/Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a37.o)
+                              /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libetc.a(intr.o) (ExitCriticalSection)
+/Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a91.o)
+                              /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libetc.a(pad.o) (ChangeClearPAD)
+/Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(c114.o)
+                              /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libetc.a(intr.o) (_96_remove)
+/Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(c68.o)
+                              /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgte.a(patchgte.o) (FlushCache)
+/Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(c73.o)
+                              /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(sys.o) (GPU_cw)
+/Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(l10.o)
+                              /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libetc.a(vsync.o) (ChangeClearRCnt)
+/Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(pad.o)
+                              /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libetc.a(pad.o) (PAD_init)
+/Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(patch.o)
+                              /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(pad.o) (_patch_pad)
+/Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a18.o)
+                              /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(pad.o) (InitPAD2)
+/Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a19.o)
+                              /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(pad.o) (StartPAD2)
+/Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a21.o)
+                              /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(pad.o) (PAD_init2)
+/Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(chclrpad.o)
+                              /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(pad.o) (_remove_ChgclrPAD)
+/Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(l02.o)
+                              /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(pad.o) (SysEnqIntRP)
+/Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(l03.o)
+                              /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(pad.o) (SysDeqIntRP)
+/Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libc.a(a63.o)
+                              /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libetc.a(vsync.o) (puts)
+/Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libc.a(c19.o)
+                              /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libetc.a(intr.o) (setjmp)
+/Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libc.a(c27.o)
+                              /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(font.o) (strlen)
+/Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libc.a(c63.o)
+                              /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libetc.a(intr.o) (printf)
+/Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libetc.a(vmode.o)
+                              /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(e03.o) (GetVideoMode)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 hello_cube.o
+ .reginfo       0x00000000       0x18 hello_cube.o
+ .MIPS.abiflags
+                0x00000000       0x18 hello_cube.o
+ .pdr           0x00000000       0x60 hello_cube.o
+ .text          0x00000000        0x0 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/thirdparty/nugget/common/crt0/crt0.o
+ .data          0x00000000        0x0 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/thirdparty/nugget/common/crt0/crt0.o
+ .bss           0x00000000        0x0 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/thirdparty/nugget/common/crt0/crt0.o
+ .reginfo       0x00000000       0x18 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/thirdparty/nugget/common/crt0/crt0.o
+ .MIPS.abiflags
+                0x00000000       0x18 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/thirdparty/nugget/common/crt0/crt0.o
+ .text          0x00000000        0x0 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/thirdparty/nugget/common/syscalls/printf.o
+ .data          0x00000000        0x0 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/thirdparty/nugget/common/syscalls/printf.o
+ .bss           0x00000000        0x0 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/thirdparty/nugget/common/syscalls/printf.o
+ .reginfo       0x00000000       0x18 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/thirdparty/nugget/common/syscalls/printf.o
+ .MIPS.abiflags
+                0x00000000       0x18 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/thirdparty/nugget/common/syscalls/printf.o
+ .pdr           0x00000000        0x0 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/thirdparty/nugget/common/syscalls/printf.o
+ .ramtext       0x00000000        0xc /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/thirdparty/nugget/common/syscalls/printf.o
+ .debug_line    0x00000000       0x4b /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/thirdparty/nugget/common/syscalls/printf.o
+ .debug_line_str
+                0x00000000       0x98 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/thirdparty/nugget/common/syscalls/printf.o
+ .debug_info    0x00000000       0x24 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/thirdparty/nugget/common/syscalls/printf.o
+ .debug_abbrev  0x00000000       0x14 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/thirdparty/nugget/common/syscalls/printf.o
+ .debug_aranges
+                0x00000000       0x20 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/thirdparty/nugget/common/syscalls/printf.o
+ .debug_str     0x00000000       0xa4 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/thirdparty/nugget/common/syscalls/printf.o
+ .gnu.attributes
+                0x00000000       0x10 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/thirdparty/nugget/common/syscalls/printf.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+loader           0x8000f800         0x00000800
+ram              0x80010000         0x001f0000         xrw
+dcache           0x1f800000         0x00000400
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD hello_cube.o
+LOAD /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/thirdparty/nugget/common/crt0/crt0.o
+LOAD /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/thirdparty/nugget/common/syscalls/printf.o
+START GROUP
+LOAD /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a
+LOAD /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libc.a
+LOAD /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libc2.a
+LOAD /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libcard.a
+LOAD /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libcomb.a
+LOAD /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libds.a
+LOAD /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libetc.a
+LOAD /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a
+LOAD /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgs.a
+LOAD /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgte.a
+LOAD /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgun.a
+LOAD /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libhmd.a
+LOAD /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libmath.a
+LOAD /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libmcrd.a
+LOAD /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libmcx.a
+LOAD /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libpad.a
+LOAD /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libpress.a
+LOAD /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libsio.a
+LOAD /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libsnd.a
+LOAD /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libspu.a
+LOAD /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libtap.a
+LOAD /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libcd.a
+END GROUP
+                0x800365a8                        __heap_base = __bss_end
+                0x80010000                        TLOAD_ADDR = DEFINED (TLOAD_ADDR)?TLOAD_ADDR:0x80010000
+                0x80200000                        __ram_top = (ORIGIN (ram) + LENGTH (ram))
+                0x801fff00                        __sp = (__ram_top - 0x100)
+                0x1f800000                        __dcache = ORIGIN (dcache)
+                0x1f800400                        __dcache_top = (ORIGIN (dcache) + LENGTH (dcache))
+                0x00019da8                        __bss_len = (__bss_end - __bss_start)
+                0x00005d90                        __ftext_len = (__ftext_end - __ftext_start)
+                0x00006a70                        __fdata_len = (__fdata_end - __fdata_start)
+                0x80200000                        __stack_start = (ORIGIN (ram) + LENGTH (ram))
+
+.PSX_EXE_Header
+                0x8000f800      0x800
+                0x8000f800        0x1 BYTE 0x50
+                0x8000f801        0x1 BYTE 0x53
+                0x8000f802        0x1 BYTE 0x2d
+                0x8000f803        0x1 BYTE 0x58
+                0x8000f804        0x1 BYTE 0x20
+                0x8000f805        0x1 BYTE 0x45
+                0x8000f806        0x1 BYTE 0x58
+                0x8000f807        0x1 BYTE 0x45
+                0x8000f808        0x4 LONG 0x0
+                0x8000f80c        0x4 LONG 0x0
+                0x8000f810        0x4 LONG 0x80010000 ABSOLUTE (_start)
+                0x8000f814        0x4 LONG 0x0
+                0x8000f818        0x4 LONG 0x80010000 TLOAD_ADDR
+                0x8000f81c        0x4 LONG 0xc800 (__ftext_len + __fdata_len)
+                0x8000f820        0x4 LONG 0x0
+                0x8000f824        0x4 LONG 0x0
+                0x8000f828        0x4 LONG 0x0
+                0x8000f82c        0x4 LONG 0x0
+                0x8000f830        0x4 LONG 0x801fff00 DEFINED (_sp)?ABSOLUTE (_sp):0x801fff00
+                0x8000f834        0x4 LONG 0x0
+                0x80010000                        . = (. + 0x7c8)
+ *fill*         0x8000f838      0x7c8 
+                0x80010000                        __ftext_start = ABSOLUTE (.)
+
+.text           0x80010000     0x5d90
+ *(.start)
+ .start         0x80010000       0x64 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/thirdparty/nugget/common/crt0/crt0.o
+                0x80010000                _start
+ *(.init)
+ *(SORT_NONE(.fini))
+ *(.text.unlikely .text.*_unlikely .text.unlikely.*)
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ .text.startup.main
+                0x80010064      0x4e4 hello_cube.o
+                0x80010064                main
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text.init     0x80010548      0x148 hello_cube.o
+                0x80010548                init
+ .text.display  0x80010690       0xb0 hello_cube.o
+                0x80010690                display
+ .text          0x80010740       0x10 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libc.a(c42.o)
+                0x80010740                memcpy
+ .text          0x80010750       0x10 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libc.a(c43.o)
+                0x80010750                memset
+ .text          0x80010760       0x80 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libetc.a(pad.o)
+                0x80010760                PadInit
+                0x800107ac                PadRead
+ .text          0x800107e0      0x210 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libetc.a(vsync.o)
+                0x800107e0                VSync
+ .text          0x800109f0      0x6c0 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libetc.a(intr.o)
+                0x800109f0                ResetCallback
+                0x80010a20                InterruptCallback
+                0x80010a50                DMACallback
+                0x80010a80                VSyncCallback
+                0x80010ab4                VSyncCallbacks
+                0x80010ae4                StopCallback
+                0x80010b14                RestartCallback
+                0x80010b44                CheckCallback
+                0x80010b54                GetIntrMask
+                0x80010b6c                SetIntrMask
+ .text          0x800110b0      0x2a0 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libetc.a(intr_dma.o)
+                0x800110b0                startIntrDMA
+ .text          0x80011350      0x120 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libetc.a(intr_vb.o)
+                0x80011350                startIntrVSync
+ .text          0x80011470       0xc0 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(e03.o)
+                0x80011470                SetDefDrawEnv
+ .text          0x80011530       0x40 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(e04.o)
+                0x80011530                SetDefDispEnv
+ .text          0x80011570      0xa80 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(font.o)
+                0x80011570                SetDumpFnt
+                0x800115b0                FntLoad
+                0x80011650                FntOpen
+                0x8001190c                FntFlush
+                0x80011c28                FntPrint
+ .text          0x80011ff0       0x40 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(p06.o)
+                0x80011ff0                AddPrim
+ .text          0x80012030       0x20 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(p09.o)
+                0x80012030                TermPrim
+ .text          0x80012050       0x30 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(p10.o)
+                0x80012050                SetSemiTrans
+ .text          0x80012080       0x20 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(p14.o)
+                0x80012080                SetPolyG3
+ .text          0x800120a0       0x20 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(p20.o)
+                0x800120a0                SetSprt8
+ .text          0x800120c0       0x20 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(p26.o)
+                0x800120c0                SetTile
+ .text          0x800120e0       0xa0 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(p41.o)
+                0x800120e0                SetDrawMode
+ .text          0x80012180     0x2f00 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(sys.o)
+                0x80012180                ResetGraph
+                0x800122f4                SetGraphDebug
+                0x80012350                SetGraphQueue
+                0x800123f4                GetGraphDebug
+                0x80012404                DrawSyncCallback
+                0x80012464                SetDispMask
+                0x800124fc                DrawSync
+                0x80012680                ClearImage
+                0x80012710                ClearImage2
+                0x800127a8                LoadImage
+                0x80012808                StoreImage
+                0x80012868                MoveImage
+                0x80012920                ClearOTag
+                0x800129e8                ClearOTagR
+                0x80012a94                DrawPrim
+                0x80012af0                DrawOTag
+                0x80012b60                PutDrawEnv
+                0x80012c20                DrawOTagEnv
+                0x80012cf8                GetDrawEnv
+                0x80012d2c                PutDispEnv
+                0x80013224                GetDispEnv
+                0x80013258                GetODE
+                0x80013288                SetDrawArea
+                0x80013308                SetDrawOffset
+                0x80013348                SetDrawEnv
+                0x80014c18                LoadImage2
+                0x80014d04                StoreImage2
+                0x80014df0                MoveImage2
+                0x80014f34                DrawOTag2
+                0x80015030                _GPU_ResetCallback
+ .text          0x80015080       0xf0 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(e00.o)
+                0x80015080                LoadTPage
+ .text          0x80015170       0x70 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(e02.o)
+                0x80015170                LoadClut2
+ .text          0x800151e0       0x40 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(p00.o)
+                0x800151e0                GetTPage
+ .text          0x80015220       0x20 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(p01.o)
+                0x80015220                GetClut
+ .text          0x80015240      0x290 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgte.a(fgo_01.o)
+                0x80015240                RotMatrix
+ .text          0x800154d0       0x90 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgte.a(msc00.o)
+                0x800154d8                InitGeom
+ .text          0x80015560       0x30 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgte.a(mtx_07.o)
+                0x80015560                TransMatrix
+ .text          0x80015590      0x140 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgte.a(mtx_08.o)
+                0x80015590                ScaleMatrix
+ .text          0x800156d0       0x30 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgte.a(mtx_09.o)
+                0x800156d0                SetRotMatrix
+ .text          0x80015700       0x20 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgte.a(mtx_12.o)
+                0x80015700                SetTransMatrix
+ .text          0x80015720       0xe0 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgte.a(patchgte.o)
+                0x80015720                _patch_gte
+ .text          0x80015800       0x20 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgte.a(reg12.o)
+                0x80015800                SetGeomOffset
+ .text          0x80015820       0x10 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgte.a(reg13.o)
+                0x80015820                SetGeomScreen
+ .text          0x80015830       0x30 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgte.a(smp_02.o)
+                0x80015830                RotTransPers
+ .text          0x80015860       0x10 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a22.o)
+                0x80015860                PAD_dr
+ .text          0x80015870       0x10 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a23.o)
+                0x80015870                ReturnFromException
+ .text          0x80015880       0x10 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a24.o)
+                0x80015880                ResetEntryInt
+ .text          0x80015890       0x10 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a25.o)
+                0x80015890                HookEntryInt
+ .text          0x800158a0       0x10 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a36.o)
+                0x800158a0                EnterCriticalSection
+ .text          0x800158b0       0x10 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a37.o)
+                0x800158b0                ExitCriticalSection
+ .text          0x800158c0       0x10 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a91.o)
+                0x800158c0                ChangeClearPAD
+ .text          0x800158d0       0x20 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(c114.o)
+                0x800158d8                _96_remove
+ .text          0x800158f0       0x10 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(c68.o)
+                0x800158f0                FlushCache
+ .text          0x80015900       0x10 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(c73.o)
+                0x80015900                GPU_cw
+ .text          0x80015910       0x10 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(l10.o)
+                0x80015910                ChangeClearRCnt
+ .text          0x80015920      0x290 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(pad.o)
+                0x80015920                SetInitPadFlag
+                0x8001592c                ReadInitPadFlag
+                0x8001593c                PAD_init
+                0x800159cc                InitPAD
+                0x80015a5c                StartPAD
+ .text          0x80015bb0       0xa0 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(patch.o)
+                0x80015bb0                EnablePAD
+                0x80015bc4                DisablePAD
+                0x80015bd8                _patch_pad
+ .text          0x80015c50       0x10 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a18.o)
+                0x80015c50                InitPAD2
+ .text          0x80015c60       0x10 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a19.o)
+                0x80015c60                StartPAD2
+ .text          0x80015c70       0x10 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a21.o)
+                0x80015c70                PAD_init2
+ .text          0x80015c80       0x70 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(chclrpad.o)
+                0x80015c80                _remove_ChgclrPAD
+ .text          0x80015cf0       0x10 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(l02.o)
+                0x80015cf0                SysEnqIntRP
+ .text          0x80015d00       0x10 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(l03.o)
+                0x80015d00                SysDeqIntRP
+ .text          0x80015d10       0x20 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libc.a(a63.o)
+                0x80015d18                puts
+ .text          0x80015d30       0x10 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libc.a(c19.o)
+                0x80015d30                setjmp
+ .text          0x80015d40       0x10 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libc.a(c27.o)
+                0x80015d40                strlen
+ .text          0x80015d50       0x10 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libc.a(c63.o)
+                0x80015d50                printf
+ .text          0x80015d60       0x30 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libetc.a(vmode.o)
+                0x80015d60                SetVideoMode
+                0x80015d74                GetVideoMode
+                0x80015d90                        . = ALIGN (0x10)
+ *(.init)
+                0x80015d90                        . = ALIGN (0x10)
+ *(.fini)
+                0x80015d90                        . = ALIGN (0x10)
+                0x80015d90                        __text_end = .
+                0x80015d90                        __ftext_end = ABSOLUTE (.)
+                0x80015d90                        __fdata_start = ABSOLUTE (.)
+
+.rodata         0x80015d90      0x3e4
+ *(.rodata .rodata.* .rdata .rdata.* .gnu.linkonce.r.*)
+ .rodata.str1.4
+                0x80015d90       0x1c hello_cube.o
+ *fill*         0x80015dac        0x4 
+ .rodata        0x80015db0       0x20 hello_cube.o
+ .rodata        0x80015dd0       0x10 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/thirdparty/nugget/common/crt0/crt0.o
+ .rdata         0x80015de0       0x10 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libetc.a(vsync.o)
+ .rdata         0x80015df0       0x70 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libetc.a(intr.o)
+ .rdata         0x80015e60       0x30 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libetc.a(intr_dma.o)
+ .rdata         0x80015e90       0xa0 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(font.o)
+ .rdata         0x80015f30      0x220 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(sys.o)
+                0x80016150                        . = ALIGN (0x10)
+                0x80016150                        __preinit_array_start = .
+ *(.preinit_array)
+                0x80016150                        __preinit_array_end = .
+                0x80016150                        . = ALIGN (0x10)
+                0x80016150                        __init_array_start = .
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array)
+                0x80016150                        . = ALIGN (0x10)
+ *crtbegin.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *crtend.o(.ctors)
+                0x80016150                        __init_array_end = .
+                0x80016150                        . = ALIGN (0x10)
+                0x80016150                        __fini_array_start = .
+ *(.fini_array)
+ *(SORT_BY_NAME(.fini_array.*))
+ *crtbegin.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *crtend.o(.dtors)
+                0x80016150                        __fini_array_end = .
+                0x80016150                        __build_id = .
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x80016150       0x24 hello_cube.o
+                0x80016174                        __build_id_end = .
+
+.rel.dyn        0x80016174        0x0
+ .rel.dyn       0x80016174        0x0 hello_cube.o
+
+.rodata1
+ *(.rodata1)
+                0x80016174                        __data_start = .
+
+.data           0x80016180     0x6680
+ *(.a0table)
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x80016180      0x370 hello_cube.o
+                0x80016180                nextpri
+                0x80016184                modelCube1
+                0x80016198                modelCube1_index
+                0x80016228                modelCube1_color
+                0x800162b8                modelCube1_normal
+                0x800162f8                modelCube1_mesh
+                0x80016338                modelCube
+                0x8001634c                modelCube_index
+                0x800163dc                modelCube_color
+                0x8001646c                modelCube_normal
+                0x800164ac                modelCube_mesh
+ .data          0x800164f0       0x20 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libetc.a(vsync.o)
+                0x80016500                Hcount
+ .data          0x80016510     0x1100 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libetc.a(intr.o)
+ .data          0x80017610       0x30 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libetc.a(intr_dma.o)
+ .data          0x80017640       0x30 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libetc.a(intr_vb.o)
+                0x80017660                Vcount
+ .data          0x80017670      0xb90 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(font.o)
+                0x80017670                Font
+ .data          0x80018200      0x1a0 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(sys.o)
+                0x8001824c                GPU_printf
+                0x80018250                GEnv
+                0x80018378                _qin
+                0x8001837c                _qout
+ .data          0x800183a0       0x10 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgte.a(msc00.o)
+ .data          0x800183b0     0x4000 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgte.a(cstbl.o)
+                0x800183b0                rcossin_tbl
+ .data          0x8001c3b0       0x10 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(pad.o)
+ .data          0x8001c3c0       0x10 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libetc.a(vmode.o)
+ *(.data1)
+ *(.sdata .sdata.* .gnu.linkonce.s.*)
+ *(.sdata2 .sdata2.* .gnu.linkonce.s2.*)
+ *(.got.plt)
+ *(.got)
+                0x8001c800                        . = ALIGN (0x800)
+ *fill*         0x8001c3d0      0x430 
+                0x8001c800                        __data_end = .
+                0x8001c800                        __fdata_end = .
+                0x8001c800                        __bss_start = .
+
+.sbss           0x8001c800    0x19da8
+ *(.dynsbss)
+ *(.sbss .sbss.* .gnu.linkonce.sb.*)
+ *(.scommon)
+ *(.dynbss)
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x8001c800    0x140f0 hello_cube.o
+                0x8001c800                db
+                0x8001c804                primbuff
+                0x8002c804                ot
+                0x80030804                draw
+                0x800308bc                disp
+ .bss           0x800308f0       0x14 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libetc.a(pad.o)
+                0x80030900                PadIdentifier
+ *fill*         0x80030904        0x4 
+ .bss           0x80030908     0x4410 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(font.o)
+ .bss           0x80034d18     0x1850 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(sys.o)
+                0x80034d68                _que
+ .bss           0x80036568       0x10 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgte.a(patchgte.o)
+ .bss           0x80036578       0x10 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(pad.o)
+                0x80036578                _apiPadPatch
+ .bss           0x80036588       0x10 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(patch.o)
+ .bss           0x80036598       0x10 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(chclrpad.o)
+ *(COMMON)
+                0x800365a8                        . = ALIGN (0x4)
+                0x800365a8                        __bss_end = .
+                0x800365a8                        __heap_start = __heap_base
+                0x8000f800                        . = (ADDR (.text) - 0x800)
+                0x8000f800                        __end = .
+
+/DISCARD/
+ *(.MIPS.abiflags)
+
+/DISCARD/
+ *(.rel.iplt)
+ *(.rela.iplt)
+ *(.rel.plt)
+ *(.rela.plt)
+ *(.plt)
+ *(.iplt)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(hello_cube.elf elf32-tradlittlemips)
+
+.mdebug.abi32   0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 hello_cube.o
+
+.comment        0x00000000       0x12
+ .comment       0x00000000       0x12 hello_cube.o
+                                 0x13 (size before relaxing)
+
+.gnu.attributes
+                0x00000000       0x10
+ .gnu.attributes
+                0x00000000       0x10 hello_cube.o
+ .gnu.attributes
+                0x00000010       0x10 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/thirdparty/nugget/common/crt0/crt0.o
+
+.pdr            0x00000000        0x0
+ .pdr           0x00000000        0x0 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/thirdparty/nugget/common/crt0/crt0.o
+
+.note           0x00000000     0x19d4
+ .note          0x00000000       0x74 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libc.a(c42.o)
+ .note          0x00000074       0x74 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libc.a(c43.o)
+ .note          0x000000e8       0x74 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libetc.a(pad.o)
+ .note          0x0000015c       0x74 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libetc.a(vsync.o)
+ .note          0x000001d0       0x74 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libetc.a(intr.o)
+ .note          0x00000244       0x74 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libetc.a(intr_dma.o)
+ .note          0x000002b8       0x74 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libetc.a(intr_vb.o)
+ .note          0x0000032c       0x74 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(e03.o)
+ .note          0x000003a0       0x74 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(e04.o)
+ .note          0x00000414       0x74 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(font.o)
+ .note          0x00000488       0x74 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(p06.o)
+ .note          0x000004fc       0x74 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(p09.o)
+ .note          0x00000570       0x74 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(p10.o)
+ .note          0x000005e4       0x74 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(p14.o)
+ .note          0x00000658       0x74 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(p20.o)
+ .note          0x000006cc       0x74 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(p26.o)
+ .note          0x00000740       0x74 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(p41.o)
+ .note          0x000007b4       0x74 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(sys.o)
+ .note          0x00000828       0x74 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(e00.o)
+ .note          0x0000089c       0x74 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(e02.o)
+ .note          0x00000910       0x74 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(p00.o)
+ .note          0x00000984       0x74 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(p01.o)
+ .note          0x000009f8       0x74 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgte.a(fgo_01.o)
+ .note          0x00000a6c       0x74 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgte.a(msc00.o)
+ .note          0x00000ae0       0x74 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgte.a(mtx_07.o)
+ .note          0x00000b54       0x74 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgte.a(mtx_08.o)
+ .note          0x00000bc8       0x74 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgte.a(mtx_09.o)
+ .note          0x00000c3c       0x74 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgte.a(mtx_12.o)
+ .note          0x00000cb0       0x74 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgte.a(patchgte.o)
+ .note          0x00000d24       0x74 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgte.a(reg12.o)
+ .note          0x00000d98       0x74 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgte.a(reg13.o)
+ .note          0x00000e0c       0x74 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgte.a(smp_02.o)
+ .note          0x00000e80       0x74 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libgte.a(cstbl.o)
+ .note          0x00000ef4       0x74 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a22.o)
+ .note          0x00000f68       0x74 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a23.o)
+ .note          0x00000fdc       0x74 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a24.o)
+ .note          0x00001050       0x74 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a25.o)
+ .note          0x000010c4       0x74 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a36.o)
+ .note          0x00001138       0x74 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a37.o)
+ .note          0x000011ac       0x74 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a91.o)
+ .note          0x00001220       0x74 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(c114.o)
+ .note          0x00001294       0x74 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(c68.o)
+ .note          0x00001308       0x74 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(c73.o)
+ .note          0x0000137c       0x74 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(l10.o)
+ .note          0x000013f0       0x74 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(pad.o)
+ .note          0x00001464       0x74 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(patch.o)
+ .note          0x000014d8       0x74 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a18.o)
+ .note          0x0000154c       0x74 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a19.o)
+ .note          0x000015c0       0x74 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a21.o)
+ .note          0x00001634       0x74 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(chclrpad.o)
+ .note          0x000016a8       0x74 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(l02.o)
+ .note          0x0000171c       0x74 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libapi.a(l03.o)
+ .note          0x00001790       0x74 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libc.a(a63.o)
+ .note          0x00001804       0x74 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libc.a(c19.o)
+ .note          0x00001878       0x74 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libc.a(c27.o)
+ .note          0x000018ec       0x74 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libc.a(c63.o)
+ .note          0x00001960       0x74 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/psyq/lib/libetc.a(vmode.o)
+
+.debug_info     0x00000000      0xd95
+ .debug_info    0x00000000      0xd71 hello_cube.o
+ .debug_info    0x00000d71       0x24 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/thirdparty/nugget/common/crt0/crt0.o
+
+.debug_abbrev   0x00000000      0x255
+ .debug_abbrev  0x00000000      0x241 hello_cube.o
+ .debug_abbrev  0x00000241       0x14 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/thirdparty/nugget/common/crt0/crt0.o
+
+.debug_loclists
+                0x00000000      0x108
+ .debug_loclists
+                0x00000000      0x108 hello_cube.o
+
+.debug_aranges  0x00000000       0x50
+ .debug_aranges
+                0x00000000       0x30 hello_cube.o
+ .debug_aranges
+                0x00000030       0x20 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/thirdparty/nugget/common/crt0/crt0.o
+
+.debug_rnglists
+                0x00000000       0x22
+ .debug_rnglists
+                0x00000000       0x22 hello_cube.o
+
+.debug_line     0x00000000      0x52a
+ .debug_line    0x00000000      0x4cf hello_cube.o
+ .debug_line    0x000004cf       0x5b /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/thirdparty/nugget/common/crt0/crt0.o
+
+.debug_str      0x00000000      0x493
+ .debug_str     0x00000000      0x42e hello_cube.o
+                                0x479 (size before relaxing)
+ .debug_str     0x0000042e       0x65 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/thirdparty/nugget/common/crt0/crt0.o
+                                 0x9e (size before relaxing)
+
+.debug_frame    0x00000000       0x84
+ .debug_frame   0x00000000       0x84 hello_cube.o
+
+.debug_line_str
+                0x00000000       0x92
+ .debug_line_str
+                0x00000000       0x92 /Users/hasik/Projects/ruby-psx/nolibgs_hello_worlds/thirdparty/nugget/common/crt0/crt0.o

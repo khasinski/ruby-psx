@@ -1,3 +1,8 @@
-puts "Console output: Hello from Ruby!"
-25.times { print "-" }
-"Hello from Ruby!"
+CONFERENCE = "RubyKaigi"
+YEAR = 2025
+ROTATION = 28
+
+loop {
+  print_display("Hello #{CONFERENCE} #{YEAR}!");
+  update_display(ROTATION);
+}
