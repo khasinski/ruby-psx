@@ -4,7 +4,6 @@
 #include <libgte.h>
 #include <libetc.h>
 #include <libgpu.h>
-//#include "cube.c"
 #include "diamond.c"
 
 // Screen setup
@@ -74,29 +73,23 @@ static void c_update_display(struct VM *vm, mrbc_value v[], int argc)
   int progress = GET_INT_ARG(1);
   Rotate.vy += progress; // Pan
   Rotate.vx += progress; // Tilt
-  // Clear the current OT
   ClearOTagR(ot[db], OTLEN);
-  // Convert and set the matrixes
   RotMatrix(&Rotate, &Matrix);
   TransMatrix(&Matrix, &Trans);
   ScaleMatrix(&Matrix, &Scale);
   SetRotMatrix(&Matrix);
   SetTransMatrix(&Matrix);
-  // Render the sample vector model
   t=0;
-  // modelCube is a TMESH, len member == # vertices, but here it's # of triangle... So, for each tri * 3 vertices ...
+
   for (int i = 0; i < (modelCube.len*3); i += 3) {
     poly = (POLY_G3 *)nextpri;
-    // Initialize the primitive and set its color values
     SetPolyG3(poly);
     setRGB0(poly, modelCube.c[i].r , modelCube.c[i].g   , modelCube.c[i].b);
     setRGB1(poly, modelCube.c[i+2].r, modelCube.c[i+2].g, modelCube.c[i+2].b);
     setRGB2(poly, modelCube.c[i+1].r, modelCube.c[i+1].g, modelCube.c[i+1].b);
-    // Rotate, translate, and project the vectors and output the results into a primitive
     OTz  = RotTransPers(&modelCube_mesh[modelCube_index[t]]  , (long*)&poly->x0, &p, &Flag);
     OTz += RotTransPers(&modelCube_mesh[modelCube_index[t+2]], (long*)&poly->x1, &p, &Flag);
     OTz += RotTransPers(&modelCube_mesh[modelCube_index[t+1]], (long*)&poly->x2, &p, &Flag);
-    // Sort the primitive into the OT
     OTz /= 3;
     if ((OTz > 0) && (OTz < OTLEN))
         AddPrim(&ot[db][OTz-2], poly);
@@ -129,7 +122,6 @@ static void c_integer_subtract(struct VM *vm, mrbc_value v[], int argc)
 
 int main(void)
 {
-  hal_init();
   mrbc_init_alloc(memory_pool, MRBC_MEMORY_SIZE);
   mrbc_init_global();
   mrbc_init_class();
